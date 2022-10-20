@@ -22,3 +22,4 @@ In transfer learning, the knowledge of a pre-trained machine learning model is a
  ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-From-Xception-Inception-ResNet-and-VGG-Models/blob/main/Images/VGG19.png)
  
  
+.
