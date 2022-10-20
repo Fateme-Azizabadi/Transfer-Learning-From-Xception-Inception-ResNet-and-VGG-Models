@@ -7,18 +7,18 @@ In transfer learning, the knowledge of a pre-trained machine learning model is a
 
 * **Xception**
  
- ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-From-Xception-Inception-ResNet-VGG-Models/blob/main/Images/Xception.png)
+ ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-From-Xception-Inception-ResNet-and-VGG-Models/blob/main/Images/Xception.png)
 
 * **Inception**
  
- ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-From-Xception-Inception-ResNet-VGG-Models/blob/main/Images/Inception.png)
+ ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-From-Xception-Inception-ResNet-and-VGG-Models/blob/main/Images/Inception.png)
 
 * **VGG16**
  
- ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-From-Xception-Inception-ResNet-VGG-Models/blob/main/Images/VGG16.png)
+ ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-From-Xception-Inception-ResNet-and-VGG-Modelss/blob/main/Images/VGG16.png)
 
 * **VGG19**
  
- ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-From-Xception-Inception-ResNet-VGG-Models/blob/main/Images/VGG19.png)
+ ![](https://github.com/Fateme-Azizabadi/Transfer-Learning-From-Xception-Inception-ResNet-and-VGG-Models/blob/main/Images/VGG19.png)
  
  
